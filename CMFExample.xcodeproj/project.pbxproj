@@ -23,10 +23,8 @@
 		2F021768198A69FB003EEADF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F021744198A69FB003EEADF /* UIKit.framework */; };
 		2F021770198A69FB003EEADF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2F02176E198A69FB003EEADF /* InfoPlist.strings */; };
 		2F021772198A69FB003EEADF /* CMFExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F021771198A69FB003EEADF /* CMFExampleTests.m */; };
-		2F0DD984198A799900415CAF /* XPCKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F0DD983198A799900415CAF /* XPCKit.framework */; };
 		2F0DD98A198A7C5100415CAF /* CommunicationsFilter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F0DD989198A7C5100415CAF /* CommunicationsFilter.framework */; };
 		2FC52E79198AA20C00EF6B4F /* AddNumberViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FC52E78198AA20C00EF6B4F /* AddNumberViewController.m */; };
-		2FC52E7C198AC49A00EF6B4F /* TelephonyUtilities.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FC52E7B198AC49A00EF6B4F /* TelephonyUtilities.framework */; };
 		2FC52E83198AE5EE00EF6B4F /* Entitlements.entitlements in Resources */ = {isa = PBXBuildFile; fileRef = 2FC52E82198AE5EE00EF6B4F /* Entitlements.entitlements */; };
 /* End PBXBuildFile section */
 
@@ -81,9 +79,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2FC52E7C198AC49A00EF6B4F /* TelephonyUtilities.framework in Frameworks */,
 				2F0DD98A198A7C5100415CAF /* CommunicationsFilter.framework in Frameworks */,
-				2F0DD984198A799900415CAF /* XPCKit.framework in Frameworks */,
 				2F021743198A69FB003EEADF /* CoreGraphics.framework in Frameworks */,
 				2F021745198A69FB003EEADF /* UIKit.framework in Frameworks */,
 				2F021741198A69FB003EEADF /* Foundation.framework in Frameworks */,
